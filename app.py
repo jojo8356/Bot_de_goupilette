@@ -113,4 +113,4 @@ async def on_reaction_remove(reaction, user):
             await del_role(guild, user, 1127980433267769526)
 
 
-bot.run("MTEyNzY2MDM1NDk3ODIwNTc1Nw.GWFiYF.fkOACet-bcgnDIKDyKXt_Dc62SPsF7l3SKriX0")
+bot.run("APIKEY")
