@@ -2,9 +2,6 @@ from discord.ext import commands
 import discord
 import asyncio
 import time
-import keep_alive
-
-keep_alive.keep_alive()
 
 bot = commands.Bot(command_prefix="/", intents=discord.Intents.all())
 
