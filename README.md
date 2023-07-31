@@ -36,5 +36,4 @@ This script is intended to be used for educational purposes and as a starting po
 Please note that this README is meant to provide an overview and explanation of the script. For a complete working version, ensure that the required library is installed, and the Python script is executed correctly. Modify and customize the script as needed to suit your specific use case.
 
 Feel free to use this markdown as a template for your README. You can further tailor the content and format to meet your project's specific requirements.
-Remember that this project is for educational purposes only.
 The author is not responsible for any future errors or accidents
